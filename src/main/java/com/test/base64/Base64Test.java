@@ -9,6 +9,7 @@ import sun.misc.BASE64Encoder;
  *    JDK
  *    Commons Codec（CC）
  *    Bouncy Castle （BC）
+ *    应用场景： email ，密钥，证书
  */
 public class Base64Test{
 
